@@ -1,0 +1,23 @@
+/*
+* @Author: cyany_blue
+* @Date:   2019-03-10 21:29:32
+* @Last Modified by:   cyany_blue
+* @Last Modified time: 2019-03-10 22:21:20
+*/
+.stories {
+  margin: 20px 0;
+}
+
+.stories-header {
+  display: flex;
+  line-height: 24px;
+  font-size: 16px;
+  padding: 0 10px;
+  justify-content: space-between;
+}
+
+.stories-header > span {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding: 0 5px;
+}
